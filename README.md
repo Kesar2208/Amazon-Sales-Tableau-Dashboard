@@ -20,8 +20,8 @@ This is a professional Tableau dashboard created to analyze Amazon sales data. I
 | ![Dashboard1](Dashboard1.png) | Main Tableau dashboard screenshot |
 | ![Dashboard2](Dashboard2.png) | Tableau dashboard screenshot 2 |
 | ![Year Summary](Year_Wise_Summary.png) | Bar chart showing yearly summary |
-| ![Dataset](Amazon_Sales_data.csv) | Cleaned dataset used in Tableau |
-| ![Logo](logo/logo.png) | Amazon logo used in the dashboard |
+| !(Amazon_Sales_data.csv) | Cleaned dataset used in Tableau |
+| ![Logo](logo.png) | Amazon logo used in the dashboard |
 | `README.md` | This documentation file |
 
 ---
